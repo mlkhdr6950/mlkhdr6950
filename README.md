@@ -1,11 +1,16 @@
-## Hi there I'm Haidar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="max-width: 100%; display: inline-block;width:30px" data-target="animated-image.originalImage"> "at" <a href="https://softrobo.co.uk/" rel="nofollow">SoftroboUK</a> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ad38c424479dba43b6ded15fecfde6b53cf9fcd6ff3dc7715d5bcb43f8bbefb8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/ad38c424479dba43b6ded15fecfde6b53cf9fcd6ff3dc7715d5bcb43f8bbefb8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" data-canonical-src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+## Hi there I'm Haidar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="max-width: 100%; display: inline-block;width:30px" data-target="animated-image.originalImage"> 
+
+          
 # 💫 About Me:
 
 <p dir="auto">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://readme-typing-svg.herokuapp.com?font=Sriracha&color=D2D86E&lines=I'm+a+Full+Stack+Developer">
     <img src="https://readme-typing-svg.herokuapp.com?font=Sriracha&color=D2D86E&lines=I'm+a+Full+Stack+Developer" alt="I'm a Full Stack Developer" style="max-width: 100%;">
-  </a>
+  </a> 
 </p>
+ <em>Senior Software Developer(Remote) at <a href="https://softrobo.co.uk/" rel="nofollow">Softrobo Uk</a><animated-image data-catalyst="" style="width: 30px;"><a target="_blank" rel="noopener noreferrer nofollow" a2f67697068792e676966" hidden=""></button>
+  
+</em>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*4FjuzAZS_zik5wYs_PCMnQ.gif">
 <br>🔭 I’m currently working on frontend and AI projects using Python, React, and JavaScript<br><br>🌱 I’m currently learning AI Development<br><br>👯 I’m looking to collaborate with other content creators<br><br>💬 Ask me about JavaScript, Python, and Full-stack development<br><br>📫 How to reach me: haidaralikhan6950@gmail.com<br><br>⚡ Fun fact I’m currently learning everything 🤣
 
