@@ -12,7 +12,18 @@
   
 </em>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*4FjuzAZS_zik5wYs_PCMnQ.gif">
-<br>🔭 I’m currently working on frontend and AI projects using Python, React, and JavaScript<br><br>🌱 I’m currently learning AI Development<br><br>👯 I’m looking to collaborate with other content creators<br><br>💬 Ask me about JavaScript, Python, and Full-stack development<br><br>📫 How to reach me: haidaralikhan6950@gmail.com<br><br>⚡ Fun fact I’m currently learning everything 🤣
+<br>🔭 I’m currently working on frontend and AI projects using Python, React, and JavaScript<br><br>🌱 I’m currently learning AI Development<br><br>👯 I’m looking to collaborate with other content creators<br><br>💬 Ask me about JavaScript, Python, and Full-stack development<br><br>
+
+<p dir="auto">If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.</p>
+<a href="haidaralikhan6950@gmail.com">
+<img align="left" alt="Gmail" width="130" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/raw/master/assets/icons/gmail.png" style="max-width: 100%;">
+</a>
+<a href="https://www.linkedin.com/in/haider-ali-khan-a24b49164/" rel="nofollow">
+<img align="left" alt="Linkedin" width="150" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/raw/master/assets/icons/linkedin.png" style="max-width: 100%;">
+<br>
+<br>
+<br>
+</a>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/haider-ali-khan-a24b49164) 
